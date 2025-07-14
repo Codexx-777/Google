@@ -52,6 +52,18 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				google: {
+					blue: 'hsl(var(--google-blue))',
+					'blue-hover': 'hsl(var(--google-blue-hover))',
+					'blue-active': 'hsl(var(--google-blue-active))',
+					red: 'hsl(var(--google-red))',
+					green: 'hsl(var(--google-green))',
+					yellow: 'hsl(var(--google-yellow))',
+					'text-primary': 'hsl(var(--google-text-primary))',
+					'text-secondary': 'hsl(var(--google-text-secondary))',
+					'border-light': 'hsl(var(--google-border-light))',
+					surface: 'hsl(var(--google-surface))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
